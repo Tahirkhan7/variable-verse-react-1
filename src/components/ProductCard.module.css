@@ -1,0 +1,49 @@
+.card {
+  width: 200px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.favorited {
+  border: 2px solid #ff0000;
+  background-color: #fff5f5;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.price {
+  color: #888;
+}
+
+.actions {
+  margin-top: 10px;
+}
+
+.favoriteButton {
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-size: 18px;
+}
+
+.expandButton {
+  cursor: pointer;
+  margin-top: 5px;
+  padding: 5px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}

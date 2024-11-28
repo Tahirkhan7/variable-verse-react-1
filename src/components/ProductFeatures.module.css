@@ -1,0 +1,13 @@
+.features {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .feature {
+    background-color: #810101;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 5px 0;
+  }
+  
